@@ -1,0 +1,66 @@
+{
+  "books": [
+    {
+      "id": 8,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "",
+      "book_name": "Full-Stack Web Development",
+      "category": "Science_Fiction",
+      "release_year": 2015,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 20
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "author": "Rk narayan",
+      "no_of_chapters": 6,
+      "cover_photo": "",
+      "book_name": "Full-Stack Web Development",
+      "category": "Animation",
+      "release_year": 2013,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 20
+        }
+      ]
+    },
+    {
+      "author": "Leo-Tosltoy",
+      "book_name": "Junglee-Games",
+      "category": "Animation",
+      "release_year": "2003",
+      "no_of_chapters": "1015",
+      "id": 11
+    },
+    {
+      "author": "Rabindra Nath Tagore",
+      "book_name": "Gitanjali",
+      "category": "Novel",
+      "release_year": "2000",
+      "no_of_chapters": "1301",
+      "id": 12
+    },
+    {
+      "author": "Ms Dhoni",
+      "book_name": "Cricket is my life",
+      "category": "ODI",
+      "release_year": "1989",
+      "no_of_chapters": "40",
+      "id": 15
+    }
+  ]
+}
